@@ -1,4 +1,4 @@
-# NRAHomework
+# NARHomework
 Advanced Computing Architectures homework
 
 
